@@ -1,0 +1,23 @@
+html, body { 
+    background-color: #FCEBB6;
+}
+
+header, footer { 
+    text-align: center;
+    background-color: #d2b48c;
+}
+
+#links { 
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+   
+}
+
+li a { 
+    padding: 0 5px;
+}
+
+dl dt { 
+    font-weight: bold;
+}
